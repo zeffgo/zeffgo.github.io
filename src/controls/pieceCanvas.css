@@ -1,0 +1,10 @@
+.x-canvas-piece {
+    margin: 0;
+    position: absolute;
+    filter: drop-shadow(4px 4px 5px #000);
+    cursor: pointer;
+}
+
+.x-dragging {
+    z-index: 1;
+}
